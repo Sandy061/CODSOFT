@@ -1,2 +1,2 @@
-# interntask
+# CODSOFT
 tasks 
